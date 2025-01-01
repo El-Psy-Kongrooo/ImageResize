@@ -1,5 +1,5 @@
 # ImageResize
-The user gives a path to the image and the height and width that they want the new image to have. Also the user has to provide the name of the new image 
+The user specifies the path to the original image, the desired width and height for the resized image, and the name under which the new image should be saved.
 
 Usage: 
 ```
